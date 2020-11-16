@@ -7,7 +7,7 @@
 https://codeload.github.com/wbero/drcom-tip/zip/main<br>
 解压那两个文件<br>
 打开两个文件夹<br>
-第一个打开DrClient.exe，第二个打开Client.exe<br>
+drcom文件夹打开DrClient.exe，drcom至尊版文件夹版打开Client.exe<br>
 第二个打开之后点击右下角的更多功能<br>
 点击最右边的抓包<br>
 然后登陆第一个软件，输入校园网的账号和密码<br>
@@ -21,3 +21,6 @@ https://codeload.github.com/wbero/drcom-tip/zip/main<br>
 使用这个方法有时候会掉线<br>
 此时把软件注销重新登陆即可<br>
 
+
+有什么疑问可以联系我的qq：1533445310
+-----
