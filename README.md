@@ -3,8 +3,8 @@
 以河南农业大学的校园网为例
 ----
 需要的东西:电脑一台、网线一根（有校园网无线的应该也行）可以登陆的校园网账号一个。<br>
-首先下载下方链接中的两个文件<br>
-（之后补充)<br>
+首先下载下方链接中的文件<br>
+https://codeload.github.com/wbero/drcom-tip/zip/main<br>
 解压那两个文件<br>
 打开两个文件夹<br>
 第一个打开DrClient.exe，第二个打开Client.exe<br>
