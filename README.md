@@ -7,7 +7,7 @@
 https://codeload.github.com/wbero/drcom-tip/zip/main<br>
 解压那两个文件<br>
 打开两个文件夹<br>
-drcom文件夹打开DrClient.exe，drcom至尊版文件夹版打开Client.exe<br>
+drcom文件夹打开DrMain.exe，drcom至尊版文件夹版打开Client.exe<br>
 第二个打开之后点击右下角的更多功能<br>
 点击最右边的抓包<br>
 然后登陆第一个软件，输入校园网的账号和密码<br>
